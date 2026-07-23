@@ -15,7 +15,7 @@ Previously, I received my Bachelor's degree in **Data Science and Big Data Techn
 
 ## 🛠 Tech Stack
 
-### 语言
+### Language
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
