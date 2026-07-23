@@ -15,7 +15,7 @@ Previously, I received my Bachelor's degree in **Data Science and Big Data Techn
 
 ## 🛠 Tech Stack
 
-###语言
+### 语言
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -49,14 +49,6 @@ Reproduction of an LLM-based Root Cause Analysis Agent.
 - Docker-based deployment
 - LLM Agent workflow
 - AI-driven system diagnosis
-
-
-## 📊 GitHub Stats
-
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick200404&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick200404&layout=compact)
-
 
 ## 📫 Contact
 
