@@ -1,4 +1,4 @@
-# Hi 👋, I'm Erick Fu
+# Hi 👋, I'm Erick
 
 🎓 Master Student in **Computer Science and Technology**  
 🏫 Nanjing University of Science and Technology (NJUST)
