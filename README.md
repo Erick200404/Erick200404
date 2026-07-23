@@ -30,26 +30,6 @@ Previously, I received my Bachelor's degree in **Data Science and Big Data Techn
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 
 
-## 🚀 Projects
-
-### 🧠 Knowledge Graph Platform
-
-A multi-source heterogeneous data-driven knowledge graph system.
-
-- Backend: FastAPI
-- Graph Database: Neo4j
-- Frontend: Vue
-- Focus: Knowledge Representation & Graph Reasoning
-
-
-### 🤖 MicroRCA-Agent Reproduction
-
-Reproduction of an LLM-based Root Cause Analysis Agent.
-
-- Docker-based deployment
-- LLM Agent workflow
-- AI-driven system diagnosis
-
 ## 📫 Contact
 
 - GitHub: https://github.com/Erick200404
